@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.list {
+  width: 80%;
+  float: left;
+}
+
+.sidebar {
+  width: 20%;
+  margin-left: 80%;
+  position: absolute;
+  height: 800px;
+  background-color: Yellow;
+}
